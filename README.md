@@ -1,8 +1,6 @@
 # Web-Scrapper
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MjFmXBeGeZW9dPR9jY7-lnjK53btoGTs#scrollTo=6VL1-eCm9--O)
 
-
-# Web-Scrapper
 In this Project I scraped amazon URLs using bs4 to Scarpe the following details from the page.
 1. Product Title
 2. Product Image URL
