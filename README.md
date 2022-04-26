@@ -18,7 +18,7 @@ took to complete them is also mentioned in the output file.
 The output is in the list of dictionaries, finally represented in JSON(output.json file).
 
 #how the web scrapper works
-
+Before Running the code make sure to add the excel file in the runtime enviorment.
 
 First to bypass the Amazon captcha we use rotating proxies with random user agent
 To rotate user agents in Python 
