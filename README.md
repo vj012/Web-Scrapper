@@ -21,6 +21,7 @@ The output is in the list of dictionaries, finally represented in JSON(output.js
 Before Running the code make sure to add the excel file in the runtime enviorment.
 
 First to bypass the Amazon captcha we use rotating proxies with random user agent
+The HTTP headers User-Agent is a request header that allows a characteristic string that allows network protocol peers to identify the Operating System and Browser of the web-server.
 To rotate user agents in Python 
 
 1. Collect a list of User-Agent strings of some recent real browsers.
